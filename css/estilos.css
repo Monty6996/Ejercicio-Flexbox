@@ -74,8 +74,7 @@ body {
 
 #caja2 {
 	height: 50%;
-	margin-top: 0px;
-	margin-bottom: 0px;
+  margin: 0px 8px;
 	display: flex;
 }
 
